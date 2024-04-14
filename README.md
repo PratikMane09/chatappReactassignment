@@ -1,3 +1,9 @@
+Internship assignment : Create a chatapp using reactjs and fierbase
+recordered video is :https://drive.google.com/file/d/10YQf2DZ2ED0dhMBeSbSgyWZ0BqwfpNtZ/view?usp=sharing
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
